@@ -1,5 +1,5 @@
 # Firefly-algorithm
-Team 3: a project for daa course
+Team 3: a project for daa course(team project)
 Satyam Agrawal - 211AI044 - Simulated Annealing
 Anushka Agrawal - 211AI006 - Dynamic Programming
 Gulshan Goyal - 211AI017 - Firefly Algorithm
